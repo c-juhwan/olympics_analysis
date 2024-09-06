@@ -1,0 +1,651 @@
+year,location,season,rank,team,gold,silver,bronze,total
+2024,Paris,Summer,1,United States,40,44,42,126
+2024,Paris,Summer,2,China,40,27,24,91
+2024,Paris,Summer,3,Japan,20,12,13,45
+2024,Paris,Summer,4,Australia,18,19,16,53
+2024,Paris,Summer,5,France,16,26,22,64
+2024,Paris,Summer,6,Netherlands,15,7,12,34
+2024,Paris,Summer,7,Great Britain,14,22,29,65
+2024,Paris,Summer,8,South Korea,13,9,10,32
+2024,Paris,Summer,9,Italy,12,13,15,40
+2024,Paris,Summer,10,Germany,12,13,8,33
+2024,Paris,Summer,11,New Zealand,10,7,3,20
+2024,Paris,Summer,12,Canada,9,7,11,27
+2024,Paris,Summer,13,Uzbekistan,8,2,3,13
+2024,Paris,Summer,14,Hungary,6,7,6,19
+2024,Paris,Summer,15,Spain,5,4,9,18
+2024,Paris,Summer,16,Sweden,4,4,3,11
+2024,Paris,Summer,17,Kenya,4,2,5,11
+2024,Paris,Summer,18,Norway,4,1,3,8
+2024,Paris,Summer,19,Ireland,4,0,3,7
+2024,Paris,Summer,20,Brazil,3,7,10,20
+2022,Beijing,Winter,1,Norway,16,8,13,37
+2022,Beijing,Winter,2,Germany,12,10,5,27
+2022,Beijing,Winter,3,United States,9,9,7,25
+2022,Beijing,Winter,4,China,9,4,2,15
+2022,Beijing,Winter,5,Sweden,8,5,5,18
+2022,Beijing,Winter,6,Netherlands,8,5,4,17
+2022,Beijing,Winter,7,Austria,7,7,4,18
+2022,Beijing,Winter,8,Switzerland,7,2,6,15
+2022,Beijing,Winter,9,Russian Olympic Committee,5,12,15,32
+2022,Beijing,Winter,10,France,5,7,2,14
+2022,Beijing,Winter,11,Canada,4,8,14,26
+2022,Beijing,Winter,12,Japan,3,7,8,18
+2022,Beijing,Winter,13,Italy,2,7,8,17
+2022,Beijing,Winter,14,South Korea,2,5,2,9
+2022,Beijing,Winter,15,Slovenia,2,3,2,7
+2022,Beijing,Winter,16,Finland,2,2,4,8
+2022,Beijing,Winter,17,New Zealand,2,1,0,3
+2022,Beijing,Winter,18,Australia,1,2,1,4
+2022,Beijing,Winter,19,Great Britain,1,1,0,2
+2022,Beijing,Winter,20,Hungary,1,0,2,3
+2020,Tokyo,Summer,1,United States,39,41,33,113
+2020,Tokyo,Summer,2,China,38,32,19,89
+2020,Tokyo,Summer,3,Japan,27,14,17,58
+2020,Tokyo,Summer,4,Great Britain,22,20,22,64
+2020,Tokyo,Summer,5,Russian Olympic Committee,20,28,23,71
+2020,Tokyo,Summer,6,Australia,17,7,22,46
+2020,Tokyo,Summer,7,Netherlands,10,12,14,36
+2020,Tokyo,Summer,8,France,10,12,11,33
+2020,Tokyo,Summer,9,Germany,10,11,16,37
+2020,Tokyo,Summer,10,Italy,10,10,20,40
+2020,Tokyo,Summer,11,Canada,7,7,10,24
+2020,Tokyo,Summer,12,Brazil,7,6,8,21
+2020,Tokyo,Summer,13,New Zealand,7,6,7,20
+2020,Tokyo,Summer,14,Cuba,7,3,5,15
+2020,Tokyo,Summer,15,Hungary,6,7,7,20
+2020,Tokyo,Summer,16,South Korea,6,4,10,20
+2020,Tokyo,Summer,17,Poland,4,5,5,14
+2020,Tokyo,Summer,18,Czech Republic,4,4,3,11
+2020,Tokyo,Summer,19,Kenya,4,4,2,10
+2020,Tokyo,Summer,20,Norway,4,2,2,8
+2018,Pyeongchang,Winter,1,Norway,14,14,11,39
+2018,Pyeongchang,Winter,2,Germany,14,10,7,31
+2018,Pyeongchang,Winter,3,Canada,11,8,10,29
+2018,Pyeongchang,Winter,4,United States,9,8,6,23
+2018,Pyeongchang,Winter,5,Netherlands,8,6,6,20
+2018,Pyeongchang,Winter,6,Sweden,7,6,1,14
+2018,Pyeongchang,Winter,7,South Korea,5,8,4,17
+2018,Pyeongchang,Winter,8,Switzerland,5,6,4,15
+2018,Pyeongchang,Winter,9,France,5,4,6,15
+2018,Pyeongchang,Winter,10,Austria,5,3,6,14
+2018,Pyeongchang,Winter,11,Japan,4,5,4,13
+2018,Pyeongchang,Winter,12,Italy,3,2,5,10
+2018,Pyeongchang,Winter,13,Olympic Athletes from Russia,2,6,9,17
+2018,Pyeongchang,Winter,14,Czech Republic,2,2,3,7
+2018,Pyeongchang,Winter,15,Belarus,2,1,0,3
+2018,Pyeongchang,Winter,16,China,1,6,2,9
+2018,Pyeongchang,Winter,17,Slovakia,1,2,0,3
+2018,Pyeongchang,Winter,18,Finland,1,1,4,6
+2018,Pyeongchang,Winter,19,Great Britain,1,0,4,5
+2018,Pyeongchang,Winter,20,Poland,1,0,1,2
+2016,Rio de Janeiro,Summer,1,United States,46,37,38,121
+2016,Rio de Janeiro,Summer,2,Great Britain,27,23,17,67
+2016,Rio de Janeiro,Summer,3,China,26,18,26,70
+2016,Rio de Janeiro,Summer,4,Russia,19,17,20,56
+2016,Rio de Janeiro,Summer,5,Germany,17,10,15,42
+2016,Rio de Janeiro,Summer,6,Japan,12,8,21,41
+2016,Rio de Janeiro,Summer,7,France,10,18,14,42
+2016,Rio de Janeiro,Summer,8,South Korea,9,3,9,21
+2016,Rio de Janeiro,Summer,9,Italy,8,12,8,28
+2016,Rio de Janeiro,Summer,10,Australia,8,11,10,29
+2016,Rio de Janeiro,Summer,11,Netherlands,8,7,4,19
+2016,Rio de Janeiro,Summer,12,Hungary,8,3,4,15
+2016,Rio de Janeiro,Summer,13,Brazil,7,6,6,19
+2016,Rio de Janeiro,Summer,14,Spain,7,4,6,17
+2016,Rio de Janeiro,Summer,15,Kenya,6,6,1,13
+2016,Rio de Janeiro,Summer,16,Jamaica,6,3,2,11
+2016,Rio de Janeiro,Summer,17,Croatia,5,3,2,10
+2016,Rio de Janeiro,Summer,18,Cuba,5,2,4,11
+2016,Rio de Janeiro,Summer,19,New Zealand,4,9,5,18
+2016,Rio de Janeiro,Summer,20,Canada,4,3,15,22
+2014,Sochi,Winter,1,Norway,11,6,9,26
+2014,Sochi,Winter,2,Russia,10,10,9,29
+2014,Sochi,Winter,3,Canada,10,10,5,25
+2014,Sochi,Winter,4,United States,9,9,10,28
+2014,Sochi,Winter,5,Netherlands,8,7,9,24
+2014,Sochi,Winter,6,Germany,8,6,5,19
+2014,Sochi,Winter,7,Switzerland,7,2,2,11
+2014,Sochi,Winter,8,Belarus,5,0,1,6
+2014,Sochi,Winter,9,Austria,4,8,5,17
+2014,Sochi,Winter,10,France,4,4,7,15
+2014,Sochi,Winter,11,Poland,4,1,1,6
+2014,Sochi,Winter,12,China,3,4,2,9
+2014,Sochi,Winter,13,South Korea,3,3,2,8
+2014,Sochi,Winter,14,Sweden,2,7,6,15
+2014,Sochi,Winter,15,Czech Republic,2,4,3,9
+2014,Sochi,Winter,16,Slovenia,2,2,4,8
+2014,Sochi,Winter,17,Japan,1,4,3,8
+2014,Sochi,Winter,18,Finland,1,3,1,5
+2014,Sochi,Winter,19,Great Britain,1,1,3,5
+2014,Sochi,Winter,19,Latvia,1,1,3,5
+2012,London,Summer,1,United States,48,26,30,104
+2012,London,Summer,2,China,39,31,22,92
+2012,London,Summer,3,Great Britain,29,18,18,65
+2012,London,Summer,4,Russia,18,21,26,65
+2012,London,Summer,5,South Korea,13,9,9,31
+2012,London,Summer,6,Germany,11,20,13,44
+2012,London,Summer,7,France,11,11,13,35
+2012,London,Summer,8,Australia,8,15,12,35
+2012,London,Summer,9,Italy,8,9,11,28
+2012,London,Summer,10,Hungary,8,4,6,18
+2012,London,Summer,11,Japan,7,14,17,38
+2012,London,Summer,12,Iran,7,5,1,13
+2012,London,Summer,13,Netherlands,6,6,8,20
+2012,London,Summer,14,New Zealand,6,2,5,13
+2012,London,Summer,15,Ukraine,5,4,10,19
+2012,London,Summer,16,Cuba,5,3,7,15
+2012,London,Summer,17,Spain,4,10,6,20
+2012,London,Summer,18,Jamaica,4,5,4,13
+2012,London,Summer,19,Czech Republic,4,4,3,11
+2012,London,Summer,20,South Africa,4,1,1,6
+2010,Vancouver,Winter,1,Canada,14,7,5,26
+2010,Vancouver,Winter,2,Germany,10,13,7,30
+2010,Vancouver,Winter,3,United States,9,15,13,37
+2010,Vancouver,Winter,4,Norway,9,8,6,23
+2010,Vancouver,Winter,5,South Korea,6,6,2,14
+2010,Vancouver,Winter,6,Switzerland,6,0,3,9
+2010,Vancouver,Winter,7,China,5,2,4,11
+2010,Vancouver,Winter,7,Sweden,5,2,4,11
+2010,Vancouver,Winter,9,Austria,4,6,6,16
+2010,Vancouver,Winter,10,Netherlands,4,1,3,8
+2010,Vancouver,Winter,11,Russia,3,5,7,15
+2010,Vancouver,Winter,12,France,2,3,6,11
+2010,Vancouver,Winter,13,Australia,2,1,0,3
+2010,Vancouver,Winter,14,Czech Republic,2,0,4,6
+2010,Vancouver,Winter,15,Poland,1,3,2,6
+2010,Vancouver,Winter,16,Italy,1,1,3,5
+2010,Vancouver,Winter,17,Belarus,1,1,1,3
+2010,Vancouver,Winter,17,Slovakia,1,1,1,3
+2010,Vancouver,Winter,19,Great Britain,1,0,0,1
+2010,Vancouver,Winter,20,Japan,0,3,2,5
+2008,Beijing,Summer,1,China,48,22,30,100
+2008,Beijing,Summer,2,United States,36,39,37,112
+2008,Beijing,Summer,3,Russia,24,13,23,60
+2008,Beijing,Summer,4,Great Britain,19,13,19,51
+2008,Beijing,Summer,5,Germany,16,11,14,41
+2008,Beijing,Summer,6,Australia,14,15,17,46
+2008,Beijing,Summer,7,South Korea,13,11,8,32
+2008,Beijing,Summer,8,Japan,9,8,8,25
+2008,Beijing,Summer,9,Italy,8,9,10,27
+2008,Beijing,Summer,10,France,7,16,20,43
+2008,Beijing,Summer,11,Netherlands,7,5,4,16
+2008,Beijing,Summer,12,Ukraine,7,4,11,22
+2008,Beijing,Summer,13,Kenya,6,4,6,16
+2008,Beijing,Summer,14,Spain,5,11,3,19
+2008,Beijing,Summer,15,Jamaica,5,4,2,11
+2008,Beijing,Summer,16,Poland,4,5,2,11
+2008,Beijing,Summer,17,Ethiopia,4,2,1,7
+2008,Beijing,Summer,18,Romania,4,1,4,9
+2008,Beijing,Summer,19,Cuba,3,10,17,30
+2008,Beijing,Summer,20,Canada,3,9,8,20
+2006,Turin,Winter,1,Germany,11,12,6,29
+2006,Turin,Winter,2,United States,9,9,7,25
+2006,Turin,Winter,3,Austria,9,7,7,23
+2006,Turin,Winter,4,Russia,8,6,8,22
+2006,Turin,Winter,5,Canada,7,10,7,24
+2006,Turin,Winter,6,Sweden,7,2,5,14
+2006,Turin,Winter,7,South Korea,6,3,2,11
+2006,Turin,Winter,8,Switzerland,5,4,5,14
+2006,Turin,Winter,9,Italy,5,0,6,11
+2006,Turin,Winter,10,France,3,2,4,9
+2006,Turin,Winter,10,Netherlands,3,2,4,9
+2006,Turin,Winter,12,Estonia,3,0,0,3
+2006,Turin,Winter,13,Norway,2,8,9,19
+2006,Turin,Winter,14,China,2,4,5,11
+2006,Turin,Winter,15,Czech Republic,1,2,1,4
+2006,Turin,Winter,16,Croatia,1,2,0,3
+2006,Turin,Winter,17,Australia,1,0,1,2
+2006,Turin,Winter,18,Japan,1,0,0,1
+2006,Turin,Winter,19,Finland,0,6,3,9
+2006,Turin,Winter,20,Poland,0,1,1,2
+2004,Athens,Summer,1,United States,36,39,26,101
+2004,Athens,Summer,2,China,32,17,14,63
+2004,Athens,Summer,3,Russia,28,26,36,90
+2004,Athens,Summer,4,Australia,17,16,17,50
+2004,Athens,Summer,5,Japan,16,9,12,37
+2004,Athens,Summer,6,Germany,13,16,20,49
+2004,Athens,Summer,7,France,11,9,13,33
+2004,Athens,Summer,8,Italy,10,11,11,32
+2004,Athens,Summer,9,South Korea,9,12,9,30
+2004,Athens,Summer,10,Great Britain,9,9,12,30
+2004,Athens,Summer,11,Cuba,9,7,11,27
+2004,Athens,Summer,12,Hungary,8,6,3,17
+2004,Athens,Summer,13,Ukraine,8,5,9,22
+2004,Athens,Summer,14,Romania,8,5,6,19
+2004,Athens,Summer,15,Greece,6,6,4,16
+2004,Athens,Summer,16,Brazil,5,2,3,10
+2004,Athens,Summer,17,Norway,5,0,1,6
+2004,Athens,Summer,18,Netherlands,4,9,9,22
+2004,Athens,Summer,19,Sweden,4,2,1,7
+2004,Athens,Summer,20,Spain,3,11,6,20
+2002,Salt Lake City,Winter,1,Norway,13,5,7,25
+2002,Salt Lake City,Winter,2,Germany,12,16,8,36
+2002,Salt Lake City,Winter,3,United States,10,13,11,34
+2002,Salt Lake City,Winter,4,Canada,7,3,7,17
+2002,Salt Lake City,Winter,5,Russia,5,4,4,13
+2002,Salt Lake City,Winter,6,France,4,5,2,11
+2002,Salt Lake City,Winter,7,Italy,4,4,5,13
+2002,Salt Lake City,Winter,8,Finland,4,2,1,7
+2002,Salt Lake City,Winter,9,Netherlands,3,5,0,8
+2002,Salt Lake City,Winter,10,Austria,3,4,10,17
+2002,Salt Lake City,Winter,11,Switzerland,3,2,6,11
+2002,Salt Lake City,Winter,12,Croatia,3,1,0,4
+2002,Salt Lake City,Winter,13,China,2,2,4,8
+2002,Salt Lake City,Winter,14,South Korea,2,2,0,4
+2002,Salt Lake City,Winter,15,Australia,2,0,0,2
+2002,Salt Lake City,Winter,16,Czech Republic,1,2,0,3
+2002,Salt Lake City,Winter,17,Estonia,1,1,1,3
+2002,Salt Lake City,Winter,18,Great Britain,1,0,1,2
+2002,Salt Lake City,Winter,19,Sweden,0,2,5,7
+2002,Salt Lake City,Winter,20,Bulgaria,0,1,2,3
+2000,Sydney,Summer,1,United States,37,24,32,93
+2000,Sydney,Summer,2,Russia,32,28,29,89
+2000,Sydney,Summer,3,China,28,16,14,58
+2000,Sydney,Summer,4,Australia,16,25,17,58
+2000,Sydney,Summer,5,Germany,13,17,26,56
+2000,Sydney,Summer,6,France,13,14,11,38
+2000,Sydney,Summer,7,Italy,13,8,13,34
+2000,Sydney,Summer,8,Netherlands,12,9,4,25
+2000,Sydney,Summer,9,Cuba,11,11,7,29
+2000,Sydney,Summer,10,Great Britain,11,10,7,28
+2000,Sydney,Summer,11,Romania,11,6,9,26
+2000,Sydney,Summer,12,South Korea,8,10,10,28
+2000,Sydney,Summer,13,Hungary,8,6,3,17
+2000,Sydney,Summer,14,Poland,6,5,3,14
+2000,Sydney,Summer,15,Japan,5,8,5,18
+2000,Sydney,Summer,16,Bulgaria,5,6,2,13
+2000,Sydney,Summer,17,Greece,4,6,3,13
+2000,Sydney,Summer,18,Sweden,4,5,3,12
+2000,Sydney,Summer,19,Norway,4,3,3,10
+2000,Sydney,Summer,20,Ethiopia,4,1,3,8
+1998,Nagano,Winter,1,Germany,12,9,8,29
+1998,Nagano,Winter,2,Norway,10,10,5,25
+1998,Nagano,Winter,3,Russia,9,6,3,18
+1998,Nagano,Winter,4,Canada,6,5,4,15
+1998,Nagano,Winter,5,United States,6,3,4,13
+1998,Nagano,Winter,6,Netherlands,5,4,2,11
+1998,Nagano,Winter,7,Japan,5,1,4,10
+1998,Nagano,Winter,8,Austria,3,5,9,17
+1998,Nagano,Winter,9,South Korea,3,1,2,6
+1998,Nagano,Winter,10,Italy,2,6,2,10
+1998,Nagano,Winter,11,Finland,2,4,6,12
+1998,Nagano,Winter,12,Switzerland,2,2,3,7
+1998,Nagano,Winter,13,France,2,1,5,8
+1998,Nagano,Winter,14,Czech Republic,1,1,1,3
+1998,Nagano,Winter,15,Bulgaria,1,0,0,1
+1998,Nagano,Winter,16,China,0,6,2,8
+1998,Nagano,Winter,17,Sweden,0,2,1,3
+1998,Nagano,Winter,18,Denmark,0,1,0,1
+1998,Nagano,Winter,18,Ukraine,0,1,0,1
+1998,Nagano,Winter,20,Belarus,0,0,2,2
+1998,Nagano,Winter,20,Kazakhstan,0,0,2,2
+1996,Atlanta,Summer,1,United States,44,32,25,101
+1996,Atlanta,Summer,2,Russia,26,21,16,63
+1996,Atlanta,Summer,3,Germany,20,18,27,65
+1996,Atlanta,Summer,4,China,16,22,12,50
+1996,Atlanta,Summer,5,France,15,7,15,37
+1996,Atlanta,Summer,6,Italy,13,10,12,35
+1996,Atlanta,Summer,7,Australia,9,9,23,41
+1996,Atlanta,Summer,8,Cuba,9,8,8,25
+1996,Atlanta,Summer,9,Ukraine,9,2,12,23
+1996,Atlanta,Summer,10,South Korea,7,15,5,27
+1996,Atlanta,Summer,11,Poland,7,5,5,17
+1996,Atlanta,Summer,12,Hungary,7,4,10,21
+1996,Atlanta,Summer,13,Spain,5,6,6,17
+1996,Atlanta,Summer,14,Romania,4,7,9,20
+1996,Atlanta,Summer,15,Netherlands,4,5,10,19
+1996,Atlanta,Summer,16,Greece,4,4,0,8
+1996,Atlanta,Summer,17,Czech Republic,4,3,4,11
+1996,Atlanta,Summer,18,Switzerland,4,3,0,7
+1996,Atlanta,Summer,19,Denmark,4,1,1,6
+1996,Atlanta,Summer,19,Turkey,4,1,1,6
+1994,Lillehammer,Winter,1,Russia,11,8,4,23
+1994,Lillehammer,Winter,2,Norway,10,11,5,26
+1994,Lillehammer,Winter,3,Germany,9,7,8,24
+1994,Lillehammer,Winter,4,Italy,7,5,8,20
+1994,Lillehammer,Winter,5,United States,6,5,2,13
+1994,Lillehammer,Winter,6,South Korea,4,1,1,6
+1994,Lillehammer,Winter,7,Canada,3,6,4,13
+1994,Lillehammer,Winter,8,Switzerland,3,4,2,9
+1994,Lillehammer,Winter,9,Austria,2,3,4,9
+1994,Lillehammer,Winter,10,Sweden,2,1,0,3
+1994,Lillehammer,Winter,11,Japan,1,2,2,5
+1994,Lillehammer,Winter,12,Kazakhstan,1,2,0,3
+1994,Lillehammer,Winter,13,Ukraine,1,0,1,2
+1994,Lillehammer,Winter,14,Uzbekistan,1,0,0,1
+1994,Lillehammer,Winter,15,Belarus,0,2,0,2
+1994,Lillehammer,Winter,16,Finland,0,1,5,6
+1994,Lillehammer,Winter,17,France,0,1,4,5
+1994,Lillehammer,Winter,18,Netherlands,0,1,3,4
+1994,Lillehammer,Winter,19,China,0,1,2,3
+1994,Lillehammer,Winter,20,Slovenia,0,0,3,3
+1992,Barcelona,Summer,1,Unified Team,45,38,29,112
+1992,Barcelona,Summer,2,United States,37,34,37,108
+1992,Barcelona,Summer,3,Germany,33,21,28,82
+1992,Barcelona,Summer,4,China,16,22,16,54
+1992,Barcelona,Summer,5,Cuba,14,6,11,31
+1992,Barcelona,Summer,6,Spain,13,7,2,22
+1992,Barcelona,Summer,7,South Korea,12,5,12,29
+1992,Barcelona,Summer,8,Hungary,11,12,7,30
+1992,Barcelona,Summer,9,France,8,5,16,29
+1992,Barcelona,Summer,10,Australia,7,9,11,27
+1992,Barcelona,Summer,11,Canada,7,4,7,18
+1992,Barcelona,Summer,12,Italy,6,5,8,19
+1992,Barcelona,Summer,13,Great Britain,5,3,12,20
+1992,Barcelona,Summer,14,Romania,4,6,8,18
+1992,Barcelona,Summer,15,Czechoslovakia,4,2,1,7
+1992,Barcelona,Summer,16,North Korea,4,0,5,9
+1992,Barcelona,Summer,17,Japan,3,8,11,22
+1992,Barcelona,Summer,18,Bulgaria,3,7,6,16
+1992,Barcelona,Summer,19,Poland,3,6,10,19
+1992,Barcelona,Summer,20,Netherlands,2,6,7,15
+1992,Albertville,Winter,1,Germany,10,10,6,26
+1992,Albertville,Winter,2,Unified Team,9,6,8,23
+1992,Albertville,Winter,3,Norway,9,6,5,20
+1992,Albertville,Winter,4,Austria,6,7,8,21
+1992,Albertville,Winter,5,United States,5,4,2,11
+1992,Albertville,Winter,6,Italy,4,6,4,14
+1992,Albertville,Winter,7,France,3,5,1,9
+1992,Albertville,Winter,8,Finland,3,1,3,7
+1992,Albertville,Winter,9,Canada,2,3,2,7
+1992,Albertville,Winter,10,South Korea,2,1,1,4
+1992,Albertville,Winter,11,Japan,1,2,4,7
+1992,Albertville,Winter,12,Netherlands,1,1,2,4
+1992,Albertville,Winter,13,Sweden,1,0,3,4
+1992,Albertville,Winter,14,Switzerland,1,0,2,3
+1992,Albertville,Winter,15,China,0,3,0,3
+1992,Albertville,Winter,16,Luxembourg,0,2,0,2
+1992,Albertville,Winter,17,New Zealand,0,1,0,1
+1992,Albertville,Winter,18,Czechoslovakia,0,0,3,3
+1992,Albertville,Winter,19,North Korea,0,0,1,1
+1992,Albertville,Winter,19,Spain,0,0,1,1
+1988,Seoul,Summer,1,Soviet Union,55,31,46,132
+1988,Seoul,Summer,2,East Germany,37,35,30,102
+1988,Seoul,Summer,3,United States,36,31,27,94
+1988,Seoul,Summer,4,South Korea,12,10,11,33
+1988,Seoul,Summer,5,West Germany,11,14,15,40
+1988,Seoul,Summer,6,Hungary,11,6,6,23
+1988,Seoul,Summer,7,Bulgaria,10,12,13,35
+1988,Seoul,Summer,8,Romania,7,11,6,24
+1988,Seoul,Summer,9,France,6,4,6,16
+1988,Seoul,Summer,10,Italy,6,4,4,14
+1988,Seoul,Summer,11,China,5,11,12,28
+1988,Seoul,Summer,12,Great Britain,5,10,9,24
+1988,Seoul,Summer,13,Kenya,5,2,2,9
+1988,Seoul,Summer,14,Japan,4,3,7,14
+1988,Seoul,Summer,15,Australia,3,6,5,14
+1988,Seoul,Summer,16,Yugoslavia,3,4,5,12
+1988,Seoul,Summer,17,Czechoslovakia,3,3,2,8
+1988,Seoul,Summer,18,New Zealand,3,2,8,13
+1988,Seoul,Summer,19,Canada,3,2,5,10
+1988,Seoul,Summer,20,Poland,2,5,9,16
+1988,Calgary,Winter,1,Soviet Union,11,9,9,29
+1988,Calgary,Winter,2,East Germany,9,10,6,25
+1988,Calgary,Winter,3,Switzerland,5,5,5,15
+1988,Calgary,Winter,4,Finland,4,1,2,7
+1988,Calgary,Winter,5,Sweden,4,0,2,6
+1988,Calgary,Winter,6,Austria,3,5,2,10
+1988,Calgary,Winter,7,Netherlands,3,2,2,7
+1988,Calgary,Winter,8,West Germany,2,4,2,8
+1988,Calgary,Winter,9,United States,2,1,3,6
+1988,Calgary,Winter,10,Italy,2,1,2,5
+1988,Calgary,Winter,11,France,1,0,1,2
+1988,Calgary,Winter,12,Norway,0,3,2,5
+1988,Calgary,Winter,13,Canada,0,2,3,5
+1988,Calgary,Winter,14,Yugoslavia,0,2,1,3
+1988,Calgary,Winter,15,Czechoslovakia,0,1,2,3
+1988,Calgary,Winter,16,Japan,0,0,1,1
+1988,Calgary,Winter,16,Liechtenstein,0,0,1,1
+1984,Los Angeles,Summer,1,United States,83,61,30,174
+1984,Los Angeles,Summer,2,Romania,20,16,17,53
+1984,Los Angeles,Summer,3,West Germany,17,19,23,59
+1984,Los Angeles,Summer,4,China,15,8,9,32
+1984,Los Angeles,Summer,5,Italy,14,6,12,32
+1984,Los Angeles,Summer,6,Canada,10,18,16,44
+1984,Los Angeles,Summer,7,Japan,10,8,14,32
+1984,Los Angeles,Summer,8,New Zealand,8,1,2,11
+1984,Los Angeles,Summer,9,Yugoslavia,7,4,7,18
+1984,Los Angeles,Summer,10,South Korea,6,6,7,19
+1984,Los Angeles,Summer,11,Great Britain,5,11,21,37
+1984,Los Angeles,Summer,12,France,5,7,16,28
+1984,Los Angeles,Summer,13,Netherlands,5,2,6,13
+1984,Los Angeles,Summer,14,Australia,4,8,12,24
+1984,Los Angeles,Summer,15,Finland,4,2,6,12
+1984,Los Angeles,Summer,16,Sweden,2,11,6,19
+1984,Los Angeles,Summer,17,Mexico,2,3,1,6
+1984,Los Angeles,Summer,18,Morocco,2,0,0,2
+1984,Los Angeles,Summer,19,Brazil,1,5,2,8
+1984,Los Angeles,Summer,20,Spain,1,2,2,5
+1984,Sarajevo,Winter,1,East Germany,9,9,6,24
+1984,Sarajevo,Winter,2,Soviet Union,6,10,9,25
+1984,Sarajevo,Winter,3,United States,4,4,0,8
+1984,Sarajevo,Winter,4,Finland,4,3,6,13
+1984,Sarajevo,Winter,5,Sweden,4,2,2,8
+1984,Sarajevo,Winter,6,Norway,3,2,4,9
+1984,Sarajevo,Winter,7,Switzerland,2,2,1,5
+1984,Sarajevo,Winter,8,Canada,2,1,1,4
+1984,Sarajevo,Winter,8,West Germany,2,1,1,4
+1984,Sarajevo,Winter,10,Italy,2,0,0,2
+1984,Sarajevo,Winter,11,Great Britain,1,0,0,1
+1984,Sarajevo,Winter,12,Czechoslovakia,0,2,4,6
+1984,Sarajevo,Winter,13,France,0,1,2,3
+1984,Sarajevo,Winter,14,Japan,0,1,0,1
+1984,Sarajevo,Winter,14,Yugoslavia,0,1,0,1
+1984,Sarajevo,Winter,16,Liechtenstein,0,0,2,2
+1984,Sarajevo,Winter,17,Austria,0,0,1,1
+1980,Moscow,Summer,1,Soviet Union,80,69,46,195
+1980,Moscow,Summer,2,East Germany,47,37,42,126
+1980,Moscow,Summer,3,Bulgaria,8,16,17,41
+1980,Moscow,Summer,4,Cuba,8,7,5,20
+1980,Moscow,Summer,5,Italy,8,3,4,15
+1980,Moscow,Summer,6,Hungary,7,10,15,32
+1980,Moscow,Summer,7,Romania,6,6,13,25
+1980,Moscow,Summer,8,France,6,5,3,14
+1980,Moscow,Summer,9,Great Britain,5,7,9,21
+1980,Moscow,Summer,10,Poland,3,14,15,32
+1980,Moscow,Summer,11,Sweden,3,3,6,12
+1980,Moscow,Summer,12,Finland,3,1,4,8
+1980,Moscow,Summer,13,Czechoslovakia,2,3,9,14
+1980,Moscow,Summer,14,Yugoslavia,2,3,4,9
+1980,Moscow,Summer,15,Australia,2,2,5,9
+1980,Moscow,Summer,16,Denmark,2,1,2,5
+1980,Moscow,Summer,17,Brazil,2,0,2,4
+1980,Moscow,Summer,17,Ethiopia,2,0,2,4
+1980,Moscow,Summer,19,Switzerland,2,0,0,2
+1980,Moscow,Summer,20,Spain,1,3,2,6
+1980,Lake Placid,Winter,1,Soviet Union,10,6,6,22
+1980,Lake Placid,Winter,2,East Germany,9,7,7,23
+1980,Lake Placid,Winter,3,United States,6,4,2,12
+1980,Lake Placid,Winter,4,Austria,3,2,2,7
+1980,Lake Placid,Winter,5,Sweden,3,0,1,4
+1980,Lake Placid,Winter,6,Liechtenstein,2,2,0,4
+1980,Lake Placid,Winter,7,Finland,1,5,3,9
+1980,Lake Placid,Winter,8,Norway,1,3,6,10
+1980,Lake Placid,Winter,9,Netherlands,1,2,1,4
+1980,Lake Placid,Winter,10,Switzerland,1,1,3,5
+1980,Lake Placid,Winter,11,Great Britain,1,0,0,1
+1980,Lake Placid,Winter,12,West Germany,0,2,3,5
+1980,Lake Placid,Winter,13,Italy,0,2,0,2
+1980,Lake Placid,Winter,14,Canada,0,1,1,2
+1980,Lake Placid,Winter,15,Hungary,0,1,0,1
+1980,Lake Placid,Winter,15,Japan,0,1,0,1
+1980,Lake Placid,Winter,17,Bulgaria,0,0,1,1
+1980,Lake Placid,Winter,17,Czechoslovakia,0,0,1,1
+1980,Lake Placid,Winter,17,France,0,0,1,1
+1976,Montreal,Summer,1,Soviet Union,49,41,35,125
+1976,Montreal,Summer,2,East Germany,40,25,25,90
+1976,Montreal,Summer,3,United States,34,35,25,94
+1976,Montreal,Summer,4,West Germany,10,12,17,39
+1976,Montreal,Summer,5,Japan,9,6,10,25
+1976,Montreal,Summer,6,Poland,7,6,13,26
+1976,Montreal,Summer,7,Bulgaria,6,9,7,22
+1976,Montreal,Summer,8,Cuba,6,4,3,13
+1976,Montreal,Summer,9,Romania,4,9,14,27
+1976,Montreal,Summer,10,Hungary,4,5,13,22
+1976,Montreal,Summer,11,Finland,4,2,0,6
+1976,Montreal,Summer,12,Sweden,4,1,0,5
+1976,Montreal,Summer,13,Great Britain,3,5,5,13
+1976,Montreal,Summer,14,Italy,2,7,4,13
+1976,Montreal,Summer,15,France,2,3,4,9
+1976,Montreal,Summer,16,Yugoslavia,2,3,3,8
+1976,Montreal,Summer,17,Czechoslovakia,2,2,4,8
+1976,Montreal,Summer,18,New Zealand,2,1,1,4
+1976,Montreal,Summer,19,South Korea,1,1,4,6
+1976,Montreal,Summer,20,Switzerland,1,1,2,4
+1976,Innsbruck,Winter,1,Soviet Union,13,6,8,27
+1976,Innsbruck,Winter,2,East Germany,7,5,7,19
+1976,Innsbruck,Winter,3,United States,3,3,4,10
+1976,Innsbruck,Winter,4,Norway,3,3,1,7
+1976,Innsbruck,Winter,5,West Germany,2,5,3,10
+1976,Innsbruck,Winter,6,Finland,2,4,1,7
+1976,Innsbruck,Winter,7,Austria,2,2,2,6
+1976,Innsbruck,Winter,8,Switzerland,1,3,1,5
+1976,Innsbruck,Winter,9,Netherlands,1,2,3,6
+1976,Innsbruck,Winter,10,Italy,1,2,1,4
+1976,Innsbruck,Winter,11,Canada,1,1,1,3
+1976,Innsbruck,Winter,12,Great Britain,1,0,0,1
+1976,Innsbruck,Winter,13,Czechoslovakia,0,1,0,1
+1976,Innsbruck,Winter,14,Liechtenstein,0,0,2,2
+1976,Innsbruck,Winter,14,Sweden,0,0,2,2
+1976,Innsbruck,Winter,16,France,0,0,1,1
+1972,Munich,Summer,1,Soviet Union,50,27,22,99
+1972,Munich,Summer,2,United States,33,31,30,94
+1972,Munich,Summer,3,East Germany,20,23,23,66
+1972,Munich,Summer,4,West Germany,13,11,16,40
+1972,Munich,Summer,5,Japan,13,8,8,29
+1972,Munich,Summer,6,Australia,8,7,2,17
+1972,Munich,Summer,7,Poland,7,5,9,21
+1972,Munich,Summer,8,Hungary,6,13,16,35
+1972,Munich,Summer,9,Bulgaria,6,10,5,21
+1972,Munich,Summer,10,Italy,5,3,10,18
+1972,Munich,Summer,11,Sweden,4,6,6,16
+1972,Munich,Summer,12,Great Britain,4,5,9,18
+1972,Munich,Summer,13,Romania,3,6,7,16
+1972,Munich,Summer,14,Cuba,3,1,4,8
+1972,Munich,Summer,14,Finland,3,1,4,8
+1972,Munich,Summer,16,Netherlands,3,1,1,5
+1972,Munich,Summer,17,France,2,4,7,13
+1972,Munich,Summer,18,Czechoslovakia,2,4,2,8
+1972,Munich,Summer,19,Kenya,2,3,4,9
+1972,Munich,Summer,20,Yugoslavia,2,1,2,5
+1972,Sapporo,Winter,1,Soviet Union,8,5,3,16
+1972,Sapporo,Winter,2,East Germany,4,3,7,14
+1972,Sapporo,Winter,3,Switzerland,4,3,3,10
+1972,Sapporo,Winter,4,Netherlands,4,3,2,9
+1972,Sapporo,Winter,5,United States,3,2,3,8
+1972,Sapporo,Winter,6,West Germany,3,1,1,5
+1972,Sapporo,Winter,7,Norway,2,5,5,12
+1972,Sapporo,Winter,8,Italy,2,2,1,5
+1972,Sapporo,Winter,9,Austria,1,2,2,5
+1972,Sapporo,Winter,10,Sweden,1,1,2,4
+1972,Sapporo,Winter,11,Japan,1,1,1,3
+1972,Sapporo,Winter,12,Czechoslovakia,1,0,2,3
+1972,Sapporo,Winter,13,Poland,1,0,0,1
+1972,Sapporo,Winter,13,Spain,1,0,0,1
+1972,Sapporo,Winter,15,Finland,0,4,1,5
+1972,Sapporo,Winter,16,France,0,1,2,3
+1972,Sapporo,Winter,17,Canada,0,1,0,1
+1968,Mexico City,Summer,1,United States,45,28,34,107
+1968,Mexico City,Summer,2,Soviet Union,29,32,30,91
+1968,Mexico City,Summer,3,Japan,11,7,7,25
+1968,Mexico City,Summer,4,Hungary,10,10,12,32
+1968,Mexico City,Summer,5,East Germany,9,9,7,25
+1968,Mexico City,Summer,6,France,7,3,5,15
+1968,Mexico City,Summer,7,Czechoslovakia,7,2,4,13
+1968,Mexico City,Summer,8,West Germany,5,11,10,26
+1968,Mexico City,Summer,9,Australia,5,7,5,17
+1968,Mexico City,Summer,10,Great Britain,5,5,3,13
+1968,Mexico City,Summer,11,Poland,5,2,11,18
+1968,Mexico City,Summer,12,Romania,4,6,5,15
+1968,Mexico City,Summer,13,Italy,3,4,9,16
+1968,Mexico City,Summer,14,Kenya,3,4,2,9
+1968,Mexico City,Summer,15,Mexico,3,3,3,9
+1968,Mexico City,Summer,16,Yugoslavia,3,3,2,8
+1968,Mexico City,Summer,17,Netherlands,3,3,1,7
+1968,Mexico City,Summer,18,Bulgaria,2,4,3,9
+1968,Mexico City,Summer,19,Iran,2,1,2,5
+1968,Mexico City,Summer,20,Sweden,2,1,1,4
+1968,Grenoble,Winter,1,Norway,6,6,2,14
+1968,Grenoble,Winter,2,Soviet Union,5,5,3,13
+1968,Grenoble,Winter,3,France,4,3,2,9
+1968,Grenoble,Winter,4,Italy,4,0,0,4
+1968,Grenoble,Winter,5,Austria,3,4,4,11
+1968,Grenoble,Winter,6,Netherlands,3,3,3,9
+1968,Grenoble,Winter,7,Sweden,3,2,3,8
+1968,Grenoble,Winter,8,West Germany,2,2,3,7
+1968,Grenoble,Winter,9,United States,1,5,1,7
+1968,Grenoble,Winter,10,East Germany,1,2,2,5
+1968,Grenoble,Winter,10,Finland,1,2,2,5
+1968,Grenoble,Winter,12,Czechoslovakia,1,2,1,4
+1968,Grenoble,Winter,13,Canada,1,1,1,3
+1968,Grenoble,Winter,14,Switzerland,0,2,4,6
+1968,Grenoble,Winter,15,Romania,0,0,1,1
+1964,Tokyo,Summer,1,United States,36,26,28,90
+1964,Tokyo,Summer,2,Soviet Union,30,31,35,96
+1964,Tokyo,Summer,3,Japan,16,5,8,29
+1964,Tokyo,Summer,4,Germany,10,22,18,50
+1964,Tokyo,Summer,5,Italy,10,10,7,27
+1964,Tokyo,Summer,6,Hungary,10,7,5,22
+1964,Tokyo,Summer,7,Poland,7,6,10,23
+1964,Tokyo,Summer,8,Australia,6,2,10,18
+1964,Tokyo,Summer,9,Czechoslovakia,5,6,3,14
+1964,Tokyo,Summer,10,Great Britain,4,12,2,18
+1964,Tokyo,Summer,11,Bulgaria,3,5,2,10
+1964,Tokyo,Summer,12,Finland,3,0,2,5
+1964,Tokyo,Summer,12,New Zealand,3,0,2,5
+1964,Tokyo,Summer,14,Romania,2,4,6,12
+1964,Tokyo,Summer,15,Netherlands,2,4,4,10
+1964,Tokyo,Summer,16,Turkey,2,3,1,6
+1964,Tokyo,Summer,17,Sweden,2,2,4,8
+1964,Tokyo,Summer,18,Denmark,2,1,3,6
+1964,Tokyo,Summer,19,Yugoslavia,2,1,2,5
+1964,Tokyo,Summer,20,Belgium,2,0,1,3
+1964,Innsbruck,Winter,1,Soviet Union,11,8,6,25
+1964,Innsbruck,Winter,2,Austria,4,5,3,12
+1964,Innsbruck,Winter,3,Norway,3,6,6,15
+1964,Innsbruck,Winter,4,Finland,3,4,3,10
+1964,Innsbruck,Winter,5,France,3,4,0,7
+1964,Innsbruck,Winter,6,Germany,3,3,3,9
+1964,Innsbruck,Winter,7,Sweden,3,3,1,7
+1964,Innsbruck,Winter,8,United States,1,2,4,7
+1964,Innsbruck,Winter,9,Canada,1,1,1,3
+1964,Innsbruck,Winter,10,Netherlands,1,1,0,2
+1964,Innsbruck,Winter,11,Great Britain,1,0,0,1
+1964,Innsbruck,Winter,12,Italy,0,1,3,4
+1964,Innsbruck,Winter,13,North Korea,0,1,0,1
+1964,Innsbruck,Winter,14,Czechoslovakia,0,0,1,1
+1960,Rome,Summer,1,Soviet Union,43,29,31,103
+1960,Rome,Summer,2,United States,34,21,16,71
+1960,Rome,Summer,3,Italy,13,10,13,36
+1960,Rome,Summer,4,Germany,12,19,11,42
+1960,Rome,Summer,5,Australia,8,8,6,22
+1960,Rome,Summer,6,Turkey,7,2,0,9
+1960,Rome,Summer,7,Hungary,6,8,7,21
+1960,Rome,Summer,8,Japan,4,7,7,18
+1960,Rome,Summer,9,Poland,4,6,11,21
+1960,Rome,Summer,10,Czechoslovakia,3,2,3,8
+1960,Rome,Summer,11,Romania,3,1,6,10
+1960,Rome,Summer,12,Great Britain,2,6,12,20
+1960,Rome,Summer,13,Denmark,2,3,1,6
+1960,Rome,Summer,14,New Zealand,2,0,1,3
+1960,Rome,Summer,15,Bulgaria,1,3,3,7
+1960,Rome,Summer,16,Sweden,1,2,3,6
+1960,Rome,Summer,17,Finland,1,1,3,5
+1960,Rome,Summer,18,Austria,1,1,0,2
+1960,Rome,Summer,18,Yugoslavia,1,1,0,2
+1960,Rome,Summer,20,Pakistan,1,0,1,2
+1960,Squaw Valley,Winter,1,Soviet Union,7,5,9,21
+1960,Squaw Valley,Winter,2,Germany,4,3,1,8
+1960,Squaw Valley,Winter,3,United States,3,4,3,10
+1960,Squaw Valley,Winter,4,Norway,3,3,0,6
+1960,Squaw Valley,Winter,5,Sweden,3,2,2,7
+1960,Squaw Valley,Winter,6,Finland,2,3,3,8
+1960,Squaw Valley,Winter,7,Canada,2,1,1,4
+1960,Squaw Valley,Winter,8,Switzerland,2,0,0,2
+1960,Squaw Valley,Winter,9,Austria,1,2,3,6
+1960,Squaw Valley,Winter,10,France,1,0,2,3
+1960,Squaw Valley,Winter,11,Netherlands,0,1,1,2
+1960,Squaw Valley,Winter,12,Poland,0,1,1,2
+1960,Squaw Valley,Winter,13,Czechoslovakia,0,1,0,1
+1960,Squaw Valley,Winter,14,Italy,0,0,1,1

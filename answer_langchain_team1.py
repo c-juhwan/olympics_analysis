@@ -19,8 +19,6 @@ def get_model(model_name, temperature=0, max_tokens=128):
         return ChatAnthropic(model=model_name, temperature=temperature, max_tokens=max_tokens)
     elif "gemini" in model_name:
         return ChatGoogleGenerativeAI(model=model_name, temperature=temperature, max_tokens=max_tokens)
-    elif "mistral" in model_name:
-        return ChatMistralAI(model=model_name, temperature=temperature, max_tokens=max_tokens)
     else:
         return ChatOpenAI(model=model_name, temperature=temperature, max_tokens=max_tokens,
                           openai_api_key="EMPTY",
@@ -39,10 +37,18 @@ def are_equivalent(name1, name2, threshold=70):
     else:
         return False
 
-def get_initial_answer(data, model):
+def get_initial_answer(args, data, model):
     for idx in tqdm(range(len(data["data"])), desc="Getting initial answer"):
         each_data = data["data"][idx]
         dialogue = each_data["dialogue"][:-2]  # Remove the last two messages
+
+        if "gemma" in args.model_name:
+            # Gemma does not support system messages
+            # Prepend first system message to second human message
+            dialogue[1][1] = dialogue[0][1] + " " + dialogue[1][1]
+            # Remove first system message
+            dialogue = dialogue[1:]
+
         try:
             response = model.invoke(dialogue)
         except Exception as e:
@@ -57,7 +63,6 @@ def get_initial_answer(data, model):
             "team": response_content,
             "team_correct": are_equivalent(response_content, each_data["metadata"]["team"])
         }
-        print(response_content, each_data["metadata"]["team"], response_content == each_data["metadata"]["team"])
 
         each_data["dialogue"][-2] = [
             each_data["dialogue"][-2][0],
@@ -75,10 +80,18 @@ def get_initial_answer(data, model):
         }
     }
 
-def get_final_answer(data, model):
+def get_final_answer(args, data, model):
     for idx in tqdm(range(len(data["data"])), desc="Getting final answer"):
         each_data = data["data"][idx]
         dialogue = each_data["dialogue"]  # Use the whole dialogue
+
+        if "gemma" in args.model_name:
+            # Gemma does not support system messages
+            # Prepend first system message to second human message
+            dialogue[1][1] = dialogue[0][1] + " " + dialogue[1][1]
+            # Remove first system message
+            dialogue = dialogue[1:]
+
         try:
             response = model.invoke(dialogue)
         except Exception as e:
@@ -130,8 +143,8 @@ def main():
 
     data = load_data(args.data_file)  # Use args.data_file
     model = get_model(args.model_name)  # Use args.model_name
-    get_initial_answer(data, model)
-    get_final_answer(data, model)
+    get_initial_answer(args, data, model)
+    get_final_answer(args, data, model)
 
     # Change the order of the keys in the data: result, prompt, data
     data = {
